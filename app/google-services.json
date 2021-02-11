@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081215895190",
+    "project_id": "live-tracker-a",
+    "storage_bucket": "live-tracker-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081215895190:android:6d15672c9b53b456cda4b7",
+        "android_client_info": {
+          "package_name": "com.varun.livetrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081215895190-01e94v25of5stj2om3ckb3g15ka0g8gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varun.livetrackingapp",
+            "certificate_hash": "95c05f36bdf29e0b8ed2de25451b2b5b8b241318"
+          }
+        },
+        {
+          "client_id": "1081215895190-vbrgejkqlntqf5tvhbb4p48gnpmhtm7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuqKTJo5Zn-kS6RRrP-zXR1jiERvoUkZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081215895190-vbrgejkqlntqf5tvhbb4p48gnpmhtm7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
